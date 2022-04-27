@@ -14,5 +14,7 @@ Efter körning:
   - NewDatabase innehåller excelfiler för varje år och kön med ny ranking utifrån WCSL_ranked och FISLIST_ranked. WCSL_ranked rankas högst, följt av FISLIST_ranked.
 
 Format excelfiler för fispointlist och worldcup startlist excelfiler:
-  - fispointlist: "FIS-points-list-AL-2012-{xxx}.xlsx"          Exempel: FIS-points-list-AL-2012-184.xlsx
-  - worldcup startlist: "FIS-Standings-{DD.MM.YYYY}-{xx}h{zz}AL-{year}-WCSL" Exempel: "FIS-Standing-04.05.2021-13h09AL-2021-WCSL"
+  - fispointlist: "FIS-points-list-AL-2012-{xxx}.xlsx"
+    -  Exempel: FIS-points-list-AL-2012-184.xlsx
+  - worldcup startlist: "FIS-Standings-{DD.MM.YYYY}-{xx}h{zz}AL-{year}-WCSL" 
+    - Exempel: "FIS-Standing-04.05.2021-13h09AL-2021-WCSL"
