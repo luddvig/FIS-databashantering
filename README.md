@@ -12,3 +12,6 @@ Efter körning:
   - WCSL_ranked innehåller excelfiler för varje år och kön. Varje excelfil har 4 blad, ett för varje disciplin, med åkare som är rankade på worldcup.
   - FISLIST_ranked innehåller excelfiler av två typer: "exklude" eller vanlig. "exclude" är ranking exklusive de med ranking på worldcup. Vanlig har med alla åkare. En excelfil för varje år och kön, 4 blad för varje disciplin. 
   - NewDatabase innehåller excelfiler för varje år och kön med ny ranking utifrån WCSL_ranked och FISLIST_ranked. WCSL_ranked rankas högst, följt av FISLIST_ranked.
+
+Format excelfiler för fispointlist och worldcup startlist excelfiler:
+  fispointlist: "FIS-points-list-AL-2012-{xxx}.xlsx" _Exempel__: FIS-points-list-AL-2012-184.xlsx
