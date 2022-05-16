@@ -22,15 +22,15 @@ Format excelfiler för fispointlist och worldcup startlist excelfiler:
     - Exempel: "FIS-Standing-04.05.2021-13h09AL-2021-WCSL.xlsx"
 
 Innehåll huvudmapp:
-  -wcsl_remakeFile.py       [pythonfil]
-  -fis_remakeFile.py        [pythonfil]
-  -mergeLists.py            [pythonfil]
-  -mergeDisciplines.py      [pythonfil]
-  -FISLIST                  [mapp]
-  -FISLIST_ranked           [mapp]
-  -WCSL                     [mapp]
-  -WCSL_ranked              [mapp]
-  -NewDatabase              [mapp]
-    -YearAndGender          [mapp]
-    -DisciplineAndGender    [mapp]
+  - wcsl_remakeFile.py       [pythonfil]
+  - fis_remakeFile.py        [pythonfil]
+  - mergeLists.py            [pythonfil]
+  - mergeDisciplines.py      [pythonfil]
+  - FISLIST                  [mapp]
+  - FISLIST_ranked           [mapp]
+  - WCSL                     [mapp]
+  - WCSL_ranked              [mapp]
+  - NewDatabase              [mapp]
+    - YearAndGender          [mapp]
+    - DisciplineAndGender    [mapp]
 
